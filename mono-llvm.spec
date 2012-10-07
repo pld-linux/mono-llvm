@@ -1,4 +1,3 @@
-# $Revision: 1.18 $, $Date: 2011/02/17 12:07:36 $
 Summary:	Mono branch of the LLVM optimizing compiler infrastructure
 Summary(pl.UTF-8):	Gałąź Mono infrastruktury optymalizującego kompilatora LLVM
 Name:		mono-llvm
